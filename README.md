@@ -7,12 +7,21 @@ Our Project:
 - Encourage a community of developers paid in token for their projects
 
 Discover our project and our white paper on 
+
 web:  https://www.nextmindcoin.com
+
 mail: contact@nextmindcoin.com
+
 Telegram: https://t.me/NextMindCoin_NXMC
+
 Discord: https://discord.gg/395a5EU5pK
+
 Twitter: https://twitter.com/NextMindCoin
+
 Reddit: https://www.reddit.com/r/NextMindCoin...
+
 Github: https://github.com/CEO-NextMindCoin
+
 Linkedin: https://fr.linkedin.com/in/morgan-men...
+
 Solana: https://solscan.io/token/4qv2AGjhzxiNz5iTUnTdRVYjjacmaEcVGgFcr1R6sRFe
