@@ -1,3 +1,4 @@
+![AutomotiveUnity](https://user-images.githubusercontent.com/90076140/136476473-254dd9ed-bd10-4175-9984-7f70ff4f9ea5.png)
 # NextMindCoin-NXMC
 French Start-Up: We develop Dapps through an EEG headset (BCI) that allows to interact with machines by thought. We use the new neural technology of the NextMind headset to interact only with the force of thought.
 Our Project: 
