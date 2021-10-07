@@ -26,3 +26,5 @@ Github: https://github.com/CEO-NextMindCoin
 Linkedin: https://fr.linkedin.com/in/morgan-men...
 
 Solana: https://solscan.io/token/4qv2AGjhzxiNz5iTUnTdRVYjjacmaEcVGgFcr1R6sRFe
+
+![Compteur](https://user-images.githubusercontent.com/90076140/136476930-ab6fb5d4-bce3-403b-91d5-45c18a066faa.png)
