@@ -28,6 +28,8 @@ Voici les domaines d'applications interagissant par la pensée que nous visons :
 
 \#Éducatif : Instruire et concevoir des projets universitaires sur le deep learning, AI et ioT.
 
+\#Metaverse : Créer l'immersion la plus totale en couplant la technologie VR à la BCI
+
 \#Gaming : Concevoir des crypto-game "play to earn" en réalité virtuelle avec des interactions par la pensée, et des paris en multi-joueurs (remercions [ToughNutToCrack](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbjdWRnF4bDFTN0lXS0NxNGI2b2dxWjBtWkRKUXxBQ3Jtc0tsTGRGRTNFZ1ZfaVIzRWc5T0lKRXhWUXNBbFh0TEFwOU5aMFFnVFkwUExpdGV6ZW1hVVprR0JVMFh5eWU5VzFZeTBlZHFHa2VleEpiMVktQ0NSWHYzMTNKME1tZkdtVTc1N0tIdmhkcFhtM0otYkJFSQ\&q=https%3A%2F%2Fgithub.com%2FToughNutToCrack) d'avoir partagé son code source que nous améliorons pour créer un mode multijoueurs avec des récompenses et paris)
 
 {% embed url="https://youtube.com/clip/UgkxnOZqud9SAALHvzLeb7upvZ_6d11Zjem4" %}

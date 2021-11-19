@@ -15,7 +15,7 @@ En effet depuis 2021, le réseau Ethereum est congestionné et ses frais de tran
 
 Solana était donc la réponse à d’éventuels problèmes de scalabilité et de frais exhorbitants. Le langage de programmation RUST est performant et sécurisé. Idéal pour les Dapps.
 
-Matic Polygon étant le layer 2 d'Ethereum, reste une bonne alternative pour déployer nos Dapps.
+Polygon étant le layer 2 d'Ethereum, reste une bonne alternative pour déployer nos Dapps.
 
 ![](<.gitbook/assets/Solana comparatif.png>)
 

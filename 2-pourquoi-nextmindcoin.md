@@ -11,11 +11,11 @@ Lors de sa présentation au CES 2020 de Las Vegas, sa startup française remport
 \
 
 
-&#x20;   Le potentiel de cette interface homme-machine est spectaculaire. Sa technologie permet de capter, par un petit et léger EEG, des images en temps réel depuis le cortex visuel. Imaginez vous en train de changer vos chaines de TV, tirer dans des jeux vidéos, piloter un drone, composer une musique qui vous vient à l'esprit ou bien valider une transaction, tout cela uniquement par la pensée.
+&#x20;   Le potentiel de cette interface homme-machine est spectaculaire. Sa technologie permet de capter, par un léger casque EEG situé à l'arrière du crane, des images en temps réel depuis le cortex visuel. Imaginez vous en train de changer vos chaines de TV, tirer dans des jeux vidéos, piloter un drone, composer une musique qui vous vient à l'esprit ou bien valider une transaction, tout cela uniquement par la pensée.
 
-Le champs d'utilisation reste infini car cette pépite technologique n'en est qu'à ses balbutiements, mais grâce à l'équipe de NextMind ce casque a pu voir le jour et il est fourni avec un SDK outil de développement, qui vous permettra de prendre les commandes sur vos objets par la pensée.
+Le champs d'utilisation reste infini car cette pépite technologique n'en est qu'à ses balbutiements, et grâce à l'équipe de NextMind ce casque a pu voir le jour et il est fourni avec un SDK outil de développement, qui vous permettra de prendre les commandes sur vos objets par la pensée.
 
-Le casque peut étre couplé à des lunettes VR Oculus Quest 2&3, Oculus Rift, Oculus Quest 1&2, HoloLens 1&2, HTC Vive and Pro ou autres modéles.
+Le casque peut étre couplé à des lunettes VR Oculus Quest 1/2&3, Oculus Rift, HoloLens 1&2, HTC Vive and Pro ou autres modéles.
 
 \
 <mark style="color:red;">**NextMindCoin n’a aucun lien avec la société Next-Mind qui conçoit et vend le casque, elle ne peut donc être en aucun cas, responsable du projet NextMindCoin car nous sommes 2 sociétés différentes.**</mark>
