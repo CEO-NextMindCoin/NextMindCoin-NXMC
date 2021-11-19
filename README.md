@@ -1,30 +1,56 @@
-![AutomotiveUnity](https://user-images.githubusercontent.com/90076140/136476473-254dd9ed-bd10-4175-9984-7f70ff4f9ea5.png)
-# NextMindCoin-NXMC
-French Start-Up: We develop Dapps through an EEG headset (BCI) that allows to interact with machines by thought. We use the new neural technology of the NextMind headset to interact only with the force of thought.
-Our Project: 
--New type of secure payment with the Blockchain Solana.
-- Deploy next generation gaming with NextMind headset with earn token.
-- Interact with all machines, computers and everyday objects.
-- Encourage a community of developers paid in token for their projects
+# 🇨🇵 Sommaire
 
-Discover our project and our white paper on 
+<mark style="color:blue;">**1° Présentation de la société **</mark>
 
-web:  https://www.nextmindcoin.com
+A) Team :
 
-mail: contact@nextmindcoin.com
+B) Ambitions :
 
-Telegram: https://t.me/NextMindCoin_NXMC
+\
 
-Discord: https://discord.gg/395a5EU5pK
 
-Twitter: https://twitter.com/NextMindCoin
+<mark style="color:blue;">**2° Pourquoi NextMindCoin **</mark>
 
-Reddit: https://www.reddit.com/r/NextMindCoin...
+A) Next-Mind :
 
-Github: https://github.com/CEO-NextMindCoin
+B) Dapps :
 
-Linkedin: https://fr.linkedin.com/in/morgan-men...
+C) Casque EEG BCI + Dapps = NextMindCoin :
 
-Solana: https://solscan.io/token/4qv2AGjhzxiNz5iTUnTdRVYjjacmaEcVGgFcr1R6sRFe
+\
 
-![Compteur](https://user-images.githubusercontent.com/90076140/136476930-ab6fb5d4-bce3-403b-91d5-45c18a066faa.png)
+
+<mark style="color:blue;">**3° Le Trilemme des Blockchains **</mark>
+
+A) Sécurité, Décentralisation et scalabilité :
+
+B) Solana et Polygon :
+
+\
+
+
+<mark style="color:blue;">**4° NXMC Project **</mark>
+
+A) Présentation :
+
+B) Création d’applications liée au casque Next-Mind :
+
+C) Rémunération des développeurs et utilisateurs:
+
+\
+
+
+<mark style="color:blue;">**5° IEO (Initial Exchange Offering) **</mark>
+
+A) Présentation de l’ IEO :
+
+B) Tokenomics et Vesting Schedule:
+
+C) Modalité et dates de l’IEO :
+
+\
+
+
+<mark style="color:blue;">**6° ASPECT JURIDIQUE **</mark>
+
+A) Détails juridiques:
