@@ -13,7 +13,7 @@ Cette société a conçu un petit casque BCI EEG permettant de capter le cortex 
 
 **CEO de NextMindCoin**
 
-****![](file:///tmp/lu8397155klrbd.tmp/lu8397155klrbz\_tmp\_50d67ee77c7b76ab.jpg)****[**Mr MENZER Morgan**](https://www.linkedin.com/in/morgan-menzer-a0aa1821b/)** : **Developpeur Blockchain
+****[**Mr MENZER Morgan**](https://www.linkedin.com/in/morgan-menzer-a0aa1821b/)** : **Développeur Blockchain
 
 {% file src=".gitbook/assets/CEO.png" %}
 
@@ -21,7 +21,7 @@ Cette société a conçu un petit casque BCI EEG permettant de capter le cortex 
 
 {% file src=".gitbook/assets/Marketing.jpg" %}
 
-![](file:///tmp/lu8397155klrbd.tmp/lu8397155klrbz\_tmp\_841ac7bbaaadbfd9.jpg)****[**Mr BELGHAIT Kassim**](https://www.linkedin.com/in/sirateck/)**: **Ingénieur Développeur\
+[**Mr BELGHAIT Kassim**](https://www.linkedin.com/in/sirateck/)**: **Ingénieur Développeur\
 
 
 {% file src=".gitbook/assets/Ingenieur DEV.jpg" %}
