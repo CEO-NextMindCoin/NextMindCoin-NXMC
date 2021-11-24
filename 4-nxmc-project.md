@@ -44,6 +44,6 @@ Voici les domaines d'applications interagissant par la pensée que nous visons :
 
 <mark style="color:green;">**C) Rémunération des développeurs et utilsateurs:**</mark>
 
-<mark style="color:green;">**    **</mark>La pertinence et l’utilité de votre Dapp seront les meilleurs attributs de votre projet. Il vous appartient de déployer votre Dapp sur le réseau avant ou après avoir rempli un smart-contract avec notre équipe pour soumettre un vote. Ainsi les possesseurs de NXMC pourront voter les attributions de chaque projet.
+<mark style="color:green;">**    **</mark>La pertinence et l’utilité de votre Dapp seront les meilleurs attributs de votre projet. Il vous appartient de déployer votre Dapp sur le réseau avant ou après avoir rempli un smart-contract avec notre équipe pour soumettre un vote. Ainsi les détenteurs de NXMC pourront voter les attributions de chaque projet.
 
 Pour les utilisateurs un système de "minage passif" offrira des tokens NXMC selon le nombre d'heures d'utilisation.

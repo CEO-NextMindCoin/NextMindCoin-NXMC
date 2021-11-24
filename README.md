@@ -40,13 +40,13 @@ C) Rémunération des développeurs et utilisateurs:
 \
 
 
-<mark style="color:blue;">**5° IEO (Initial Exchange Offering) **</mark>
+<mark style="color:blue;">**5° Listing sur Raydium.io**</mark>
 
-A) Présentation de l’ IEO :
+A) Présentation du listing sur Raydium.io :
 
 B) Tokenomics et Vesting Schedule:
 
-C) Modalité et dates de l’IEO :
+C) Modalité et date du listing :
 
 \
 

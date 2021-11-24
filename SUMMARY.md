@@ -5,5 +5,5 @@
 * [🇨🇵 2° Pourquoi NextMindCoin](2-pourquoi-nextmindcoin.md)
 * [🇨🇵 3° Le Trilemme des Blockchains](3-le-trilemme-des-blockchains.md)
 * [🇨🇵 4° NXMC Project](4-nxmc-project.md)
-* [🇨🇵 5° IEO (Initial Exchange Offering)](5-ieo-initial-exchange-offering.md)
+* [🇨🇵 5° Listing sur Raydium.io](5-listing-sur-raydium.io.md)
 * [🇨🇵 6° Aspect juridique](6-aspect-juridique.md)
