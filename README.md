@@ -40,9 +40,9 @@ C) Rémunération des développeurs et utilisateurs:
 \
 
 
-<mark style="color:blue;">**5° Listing sur Raydium.io**</mark>
+<mark style="color:blue;">**5° Launchpad**</mark>
 
-A) Présentation du listing sur Raydium.io :
+A) Présentation du launchpad :
 
 B) Tokenomics et Vesting Schedule:
 
