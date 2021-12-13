@@ -2,7 +2,7 @@
 
 <mark style="color:green;">**A) Présentation :**</mark>
 
-<mark style="color:green;">**    **</mark>Chez NextMindCoin nous souhaitons développer des Applications décentralisées ( Dapps) sur le casque EEG BCI Next-Mind. Nous croyons beaucoup en l’avenir et au potentiel du casque sans parler de la technologie Blockchain que nous suivons et étudions particuliérement depuis 2013.
+&#x20;   <mark style="color:green;">****</mark>    Chez NextMindCoin nous souhaitons développer des Applications décentralisées ( Dapps) sur le casque EEG BCI Next-Mind. Nous croyons beaucoup en l’avenir et au potentiel du casque sans parler de la technologie Blockchain que nous suivons et étudions particuliérement depuis 2013.
 
 \
 &#x20;   Pourquoi ne pas coupler ce casque pour différentes opérations sur une Blockchain , comme par exemple créer un nouveau système de paiement visuel et sécurisé, validé par la pensée. Puis un champs d’applications dans divers domaines nous apparaissait tout aussi utile. Et donc pourquoi ne pas coder tout ça sur des Dapps et leurs smart-contrats ? Et si la communauté de développeurs était rétribuée à la hauteur de leur travail ?&#x20;
@@ -30,9 +30,9 @@ Voici les domaines d'applications interagissant par la pensée que nous visons :
 
 \#Metaverse : Créer l'immersion la plus totale en couplant la technologie VR à la BCI
 
-\#Gaming : Concevoir des crypto-game "play to earn" en réalité virtuelle avec des interactions par la pensée, et des paris en multi-joueurs (remercions [ToughNutToCrack](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbjdWRnF4bDFTN0lXS0NxNGI2b2dxWjBtWkRKUXxBQ3Jtc0tsTGRGRTNFZ1ZfaVIzRWc5T0lKRXhWUXNBbFh0TEFwOU5aMFFnVFkwUExpdGV6ZW1hVVprR0JVMFh5eWU5VzFZeTBlZHFHa2VleEpiMVktQ0NSWHYzMTNKME1tZkdtVTc1N0tIdmhkcFhtM0otYkJFSQ\&q=https%3A%2F%2Fgithub.com%2FToughNutToCrack) d'avoir partagé son code source que nous améliorons pour créer un mode multijoueurs avec des récompenses et paris)
+\#Gaming : Concevoir des crypto-game "play to earn" en réalité virtuelle avec des interactions par la pensée, et des paris en multi-joueurs (remercions [ToughNutToCrack](https://www.youtube.com/redirect?event=video\_description\&redir\_token=QUFFLUhqbjdWRnF4bDFTN0lXS0NxNGI2b2dxWjBtWkRKUXxBQ3Jtc0tsTGRGRTNFZ1ZfaVIzRWc5T0lKRXhWUXNBbFh0TEFwOU5aMFFnVFkwUExpdGV6ZW1hVVprR0JVMFh5eWU5VzFZeTBlZHFHa2VleEpiMVktQ0NSWHYzMTNKME1tZkdtVTc1N0tIdmhkcFhtM0otYkJFSQ\&q=https%3A%2F%2Fgithub.com%2FToughNutToCrack) d'avoir partagé son code source que nous améliorons pour créer un mode multijoueurs avec l'interaction Metamask et Phantom pour créer des récompenses et paris)
 
-{% embed url="https://youtube.com/clip/UgkxnOZqud9SAALHvzLeb7upvZ_6d11Zjem4" %}
+{% file src=".gitbook/assets/VideoMAGICgameNXMC.mp4" %}
 
 \#Loisirs : Prendre le contrôle d’un drone, d’une TV... ( conception prévu pour Janvier 2022)
 
@@ -44,6 +44,6 @@ Voici les domaines d'applications interagissant par la pensée que nous visons :
 
 <mark style="color:green;">**C) Rémunération des développeurs et utilsateurs:**</mark>
 
-<mark style="color:green;">**    **</mark>La pertinence et l’utilité de votre Dapp seront les meilleurs attributs de votre projet. Il vous appartient de déployer votre Dapp sur le réseau avant ou après avoir rempli un smart-contract avec notre équipe pour soumettre un vote. Ainsi les détenteurs de NXMC pourront voter les attributions de chaque projet.
+&#x20;   <mark style="color:green;">****</mark>    La pertinence et l’utilité de votre Dapp seront les meilleurs attributs de votre projet. Il vous appartient de déployer votre Dapp sur le réseau avant ou après avoir rempli un smart-contract avec notre équipe pour soumettre un vote. Ainsi les détenteurs de NXMC pourront voter les attributions de chaque projet.
 
 Pour les utilisateurs un système de "minage passif" offrira des tokens NXMC selon le nombre d'heures d'utilisation.

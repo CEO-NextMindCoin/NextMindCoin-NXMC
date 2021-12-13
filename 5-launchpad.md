@@ -4,7 +4,7 @@
 
 Un launchpad permet de faire une levée de fond sur un échange décentralisé. Il peut se diviser en plusierus étapes comme la private sale et l' IDO
 
-<mark style="color:green;">**B) Tokenomics et Vesting schedule **</mark>**:**
+<mark style="color:green;">**B) Tokenomics et Vesting schedule**</mark>** :**
 
 Nombre d’unité : 1 Milliard ( 1 000 000 000 )
 

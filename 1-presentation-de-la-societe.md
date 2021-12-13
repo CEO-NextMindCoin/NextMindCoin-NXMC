@@ -1,6 +1,6 @@
 # 🇨🇵 1° Présentation de la société
 
-<mark style="color:green;">**A) Team**</mark><mark style="color:blue;">** **</mark>
+<mark style="color:green;">**A) Team**</mark>** **<mark style="color:blue;">****</mark>&#x20;
 
 La société NextMindCoin, est fondée en 2021 par Mr MENZER Morgan suite à une longue année de réflexion sur le potentiel et la planification de notre projet. Il a eu la conviction d' implémenter la technologie BCI (Brain Computer Interface) sur les blockchains.\
 
@@ -13,15 +13,15 @@ Cette société a conçu un petit casque BCI EEG permettant de capter le cortex 
 
 **CEO de NextMindCoin**
 
-****[**Mr MENZER Morgan**](https://www.linkedin.com/in/morgan-menzer-a0aa1821b/)** : **Développeur Blockchain
+****[**Mr MENZER Morgan**](https://www.linkedin.com/in/morgan-menzer-a0aa1821b/) **:** Développeur Blockchain
 
 {% file src=".gitbook/assets/CEO.png" %}
 
-****[**Mr BOURSIN Jérémy**](https://www.linkedin.com/in/jeremy-boursin-nxmc/)**: **Directeur Marketing
+****[**Mr BOURSIN Jérémy**](https://www.linkedin.com/in/jeremy-boursin-nxmc/)**:** Directeur Marketing
 
 {% file src=".gitbook/assets/Marketing.jpg" %}
 
-[**Mr BELGHAIT Kassim**](https://www.linkedin.com/in/sirateck/)**: **Ingénieur Développeur\
+[**Mr BELGHAIT Kassim**](https://www.linkedin.com/in/sirateck/)**:** Ingénieur Développeur\
 
 
 {% file src=".gitbook/assets/Ingenieur DEV.jpg" %}

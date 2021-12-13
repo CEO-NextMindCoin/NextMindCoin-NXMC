@@ -1,6 +1,6 @@
 # 🇨🇵 Sommaire
 
-<mark style="color:blue;">**1° Présentation de la société **</mark>
+<mark style="color:blue;">**1° Présentation de la société**</mark>&#x20;
 
 A) Team :
 
@@ -9,7 +9,7 @@ B) Ambitions :
 \
 
 
-<mark style="color:blue;">**2° Pourquoi NextMindCoin **</mark>
+<mark style="color:blue;">**2° Pourquoi NextMindCoin**</mark>&#x20;
 
 A) Next-Mind :
 
@@ -20,7 +20,7 @@ C) Casque EEG BCI + Dapps = NextMindCoin :
 \
 
 
-<mark style="color:blue;">**3° Le Trilemme des Blockchains **</mark>
+<mark style="color:blue;">**3° Le Trilemme des Blockchains**</mark>&#x20;
 
 A) Sécurité, Décentralisation et scalabilité :
 
@@ -29,7 +29,7 @@ B) Solana et Polygon :
 \
 
 
-<mark style="color:blue;">**4° NXMC Project **</mark>
+<mark style="color:blue;">**4° NXMC Project**</mark>&#x20;
 
 A) Présentation :
 
@@ -51,6 +51,6 @@ C) Modalité et date du listing :
 \
 
 
-<mark style="color:blue;">**6° ASPECT JURIDIQUE **</mark>
+<mark style="color:blue;">**6° ASPECT JURIDIQUE**</mark>&#x20;
 
 A) Détails juridiques:

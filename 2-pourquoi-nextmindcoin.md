@@ -26,7 +26,7 @@ Le casque peut étre couplé à des lunettes VR Oculus Quest 1/2&3, Oculus Rift,
 
 <mark style="color:green;">**B) Dapps :**</mark>
 
-&#x20;    Une **application décentralisée**, plus couramment appelée une **Dapp **(de l'anglais _Decentralized Application_), est une application logicielle dont le fonctionnement est (partiellement ou totalement) distribué et répliqué parmi un ensemble d'acteurs multiples. Elle se base généralement sur un ou plusieurs [**smart contracts**](https://cryptoast.fr/qu-est-ce-qu-un-smart-contract-contrat-intelligent/)** **s'exécutant sur une ou plusieurs [**blockchains**](https://cryptoast.fr/qu-est-ce-que-la-blockchain/).
+&#x20;    Une **application décentralisée**, plus couramment appelée une **Dapp** (de l'anglais _Decentralized Application_), est une application logicielle dont le fonctionnement est (partiellement ou totalement) distribué et répliqué parmi un ensemble d'acteurs multiples. Elle se base généralement sur un ou plusieurs [**smart contracts**](https://cryptoast.fr/qu-est-ce-qu-un-smart-contract-contrat-intelligent/) **** s'exécutant sur une ou plusieurs [**blockchains**](https://cryptoast.fr/qu-est-ce-que-la-blockchain/).
 
 Les applications décentralisées s'opposent aux applications centralisées.
 
@@ -38,7 +38,7 @@ Les applications de prêt décentralisées comme [**Maker**](https://cryptoast.f
 
 #### <mark style="color:green;">Smart contracts et DApps</mark>
 
-<mark style="color:red;">**     **</mark>La pierre angulaire d'une DApp c'est le ou les smart contracts sur lesquels elle se base. Ces contrats autonomes sont des programmes informatiques dont l'exécution ne dépend pas d'un tiers de confiance, et qui s'activent automatiquement lorsque certaines conditions sont remplies sur la blockchain sur lesquels ils sont hébergés. Le plus souvent, ils sont codés pour être hébergés sur une plateforme spécialisée comme Ethereum, BSC, Cardano, Solana ou Polygon. Néanmoins un contrat peut également être inscrit dans sa propre chaîne comme c'est le cas pour Hive ou pour les sidechains de Lisk.
+&#x20;    <mark style="color:red;">****</mark>     La pierre angulaire d'une DApp c'est le ou les smart contracts sur lesquels elle se base. Ces contrats autonomes sont des programmes informatiques dont l'exécution ne dépend pas d'un tiers de confiance, et qui s'activent automatiquement lorsque certaines conditions sont remplies sur la blockchain sur lesquels ils sont hébergés. Le plus souvent, ils sont codés pour être hébergés sur une plateforme spécialisée comme Ethereum, BSC, Cardano, Solana ou Polygon. Néanmoins un contrat peut également être inscrit dans sa propre chaîne comme c'est le cas pour Hive ou pour les sidechains de Lisk.
 
 &#x20;   L'avantage principal des contrats « intelligents » est de retirer l'intermédiaire qui valide les actions. De plus, puisque toutes les opérations réalisées au sein d'un contrat sont inscrites sur la blockchain, il sera possible de retrouver aisément l'historique des conditions dans lesquelles elles ont été effectuées.
 
@@ -50,7 +50,7 @@ Une fois déployées sur la chaîne, les clauses d'un contrat autonome ne peuven
 
 <mark style="color:green;">**C) Casque EEG BCI + Dapps = NextMindCoin :**</mark>
 
-<mark style="color:green;">**      **</mark>Chez NextMindCoin nous avons l’objectif de concevoir des applications décentralisées utilisant comme hardware l’interface neuronal (le casque NEXT-MIND) et ainsi développer de nombreux champs d’utilisations :
+&#x20;     <mark style="color:green;">****</mark>      Chez NextMindCoin nous avons l’objectif de concevoir des applications décentralisées utilisant comme hardware l’interface neuronal (le casque NEXT-MIND) et ainsi développer de nombreux champs d’utilisations :
 
 Crypto-gaming, wallet sécurisé, médical, loisirs, robotique, artistique, éducatif...
 
