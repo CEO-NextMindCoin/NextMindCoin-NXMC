@@ -21,25 +21,25 @@ Adresse du Contrat  du token :\
 
 Blocage des tokens par programme (smart-contract) sur Bonfida par Audit certifié.
 
-![](.gitbook/assets/donutchart.png)
+![](.gitbook/assets/donutchart2.png)
 
 ![](<.gitbook/assets/Supply NXMCturquoise.png>)
 
 **Approvisionnement MAX: 1 000 000 000 de NXMC (Possibilité de  brûler)**
 
-<mark style="color:green;">**30 % ECOSYSTEM REWARDS: Déblocage mensuel sur 3 ans**</mark>
+<mark style="color:green;">**29 % ECOSYSTEM REWARDS: Déblocage mensuel sur 3 ans**</mark>
 
-**25 % TEAM: Déblocage mensuel sur 2 ans**
+**23.2 % TEAM: Déblocage mensuel sur 2 ans**
 
 <mark style="color:red;">**10 % FOUNDATION: Déblocage mensuel sur 3 ans**</mark>
 
 <mark style="color:yellow;">**5% MARKETING: Déblocage mensuel sur 1 an**</mark>
 
-<mark style="color:orange;">**12 % IDO: Ouverture début Décembre . Déblocage total**</mark>
+<mark style="color:orange;">**9 % IDO: 50% TGE puis 10% linéaire sur 5 mois .**</mark>
 
-<mark style="color:blue;">**7.5 % PRIVATE SALES: Ouverture début Décembre. Déblocage total**</mark>
+<mark style="color:blue;">**11.5 % PRIVATE SALES: 20% TGE linéaire sur 5 mois.**</mark>
 
-**0.5% AIRDROP: Déblocage total de 25 Décembre 2021**
+**0.5% AIRDROP: Déblocage total au listing.**
 
 <mark style="color:purple;">**10% LIQUIDITY: Déblocage mensuel sur 1 an**</mark>
 
