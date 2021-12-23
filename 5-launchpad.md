@@ -51,7 +51,11 @@ Blocage des tokens par programme (smart-contract) sur Bonfida par Audit certifi�
 
 Les ventes de NXMC se déroulerons début Décembre sur YFDAI.finance
 
-Prix du token NXMC : 0,002 usd
+Prix du token à la pré-sale : 0,0025 usd
+
+Prix du token à l' IDO: 0,008 usd
+
+Prix du token au listing: 0,01 usd
 
 
 
