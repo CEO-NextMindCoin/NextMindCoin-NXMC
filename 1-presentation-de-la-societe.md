@@ -17,11 +17,9 @@ Cette société a conçu un petit casque BCI EEG permettant de capter le cortex 
 
 {% file src=".gitbook/assets/CEO.png" %}
 
-****[**Mr BOURSIN Jérémy**](https://www.linkedin.com/in/jeremy-boursin-nxmc/)**:** Directeur Marketing
+<mark style="color:blue;">**MME B. Anissa:**</mark>** ** Officier Marketing
 
-{% file src=".gitbook/assets/Marketing.jpg" %}
-
-[**Mr BELGHAIT Kassim**](https://www.linkedin.com/in/sirateck/)**:** Ingénieur Développeur\
+[**Mr** ](https://www.linkedin.com/in/sirateck/)<mark style="color:blue;">**FREELANCER**</mark>**:** Ingénieur Développeur\
 
 
 {% file src=".gitbook/assets/Ingenieur DEV.jpg" %}
